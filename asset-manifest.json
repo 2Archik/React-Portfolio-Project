@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio-Project/static/css/main.da6839cc.css",
+    "main.js": "/React-Portfolio-Project/static/js/main.66f841cf.js",
+    "static/media/04.jpg": "/React-Portfolio-Project/static/media/04.f794c3d4848e004ab772.jpg",
+    "static/media/06.jpg": "/React-Portfolio-Project/static/media/06.dc73d87e9cf4ff04d436.jpg",
+    "static/media/02.jpg": "/React-Portfolio-Project/static/media/02.6d695fd9be68fcc8f04c.jpg",
+    "static/media/05.jpg": "/React-Portfolio-Project/static/media/05.3cc5d2d540ddad218956.jpg",
+    "static/media/01.jpg": "/React-Portfolio-Project/static/media/01.be7f10d37a1c7df6ff27.jpg",
+    "static/media/03.jpg": "/React-Portfolio-Project/static/media/03.a78d32cb67c78bf3c01d.jpg",
+    "static/media/header-bg.png": "/React-Portfolio-Project/static/media/header-bg.5bf82a058f892ab7f237.png",
+    "static/media/sun.svg": "/React-Portfolio-Project/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/moon.svg": "/React-Portfolio-Project/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/gitHub.svg": "/React-Portfolio-Project/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/gitHub-black.svg": "/React-Portfolio-Project/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
+    "static/media/instagram.svg": "/React-Portfolio-Project/static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
+    "static/media/vk.svg": "/React-Portfolio-Project/static/media/vk.ffb489eeac4ab842395ffb315910ea7f.svg",
+    "static/media/twitter.svg": "/React-Portfolio-Project/static/media/twitter.d4b0a40866d7b735834b96db6728afc1.svg",
+    "static/media/linkedIn.svg": "/React-Portfolio-Project/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
+    "index.html": "/React-Portfolio-Project/index.html",
+    "main.da6839cc.css.map": "/React-Portfolio-Project/static/css/main.da6839cc.css.map",
+    "main.66f841cf.js.map": "/React-Portfolio-Project/static/js/main.66f841cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da6839cc.css",
+    "static/js/main.66f841cf.js"
+  ]
+}
